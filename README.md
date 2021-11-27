@@ -9,4 +9,5 @@ https://youtu.be/byU8dt0M4Lw
 - TransactSQLnoSCRIPT.txt
 - scriptDataBASE.txt
 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 **Dichos archivos no son parte del proyecto en C#, son los script y transact para crear la base de datos y la tabal que utilize para la agenda**. 
