@@ -1,0 +1,11 @@
+***********TRANSACT SQL (NO EXPORT SCRIPT)*************
+create database agenda
+go
+use agenda
+go
+create table personas(
+id int not null identity(1,1) primary key,
+nombre varchar(100) null,
+apellido varchar(100) null,
+telefono int null
+)
